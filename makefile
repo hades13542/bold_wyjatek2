@@ -1,7 +1,7 @@
 #Makefile i3hujdus
 #
 #Definicje
-FILES = *.cpp *.h #zbieranie plikow
+FILES = *.cpp *.C *.h #zbieranie plikow
 CXXFLAGS = -g -Wall -o #flagi kompilatora
 CXX = g++ #kompilator
 OUTPUT = output #nazwa pliku
